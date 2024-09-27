@@ -1,0 +1,7 @@
+[user]
+	name = houpengzhou
+	email = houpengzhou@didachuxing.com
+[pull]
+	rebase = false
+[merge]
+	strategy = recursive
